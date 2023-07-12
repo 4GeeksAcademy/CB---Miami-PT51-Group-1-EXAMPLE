@@ -1,5 +1,7 @@
 # WebApp boilerplate with React JS and Flask API
 
+This is Loly from the other branch or whatever LOL
+
 This is the change from the register-frontend-page branch!
 
 Build web applications using React.js for the front end and python/flask for your backend API.

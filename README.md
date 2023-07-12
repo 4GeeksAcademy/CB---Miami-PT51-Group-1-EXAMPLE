@@ -2,6 +2,8 @@
 
 This is Loly from the other branch or whatever LOL
 
+This is the change from the register-frontend-page branch!
+
 Build web applications using React.js for the front end and python/flask for your backend API.
 
 - Documentation can be found here: https://start.4geeksacademy.com/starters/react-flask
